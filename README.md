@@ -9,7 +9,7 @@ To add a repo to the list of repos that report in, go to the settings/hooks page
  
 It runs on heroku at `mofo-signal.herokuapp.com`.
 
-Config vars are:
+For ops people, FYI, the config vars are:
 
 ```
 HEROKU_URL:                        http://mofo-signal.herokuapp.com
