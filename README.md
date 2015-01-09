@@ -1,6 +1,6 @@
 # signal
 
-This is hubot configured to listen to github webhooks and report in via irc to the #mofo-signal channel.
+This is hubot configured to listen to github webhooks and report in via irc to the `#mofo-signal` channel. Uses the `irc` adapter, and the `github-repo-event-notifier` third-party script.
 
 To add a repo to the list of repos that report in, go to the settings/hooks page, and setup a webhook that:
 
